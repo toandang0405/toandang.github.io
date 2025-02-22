@@ -1,6 +1,6 @@
 title: "Kubernetes On Premise Blog"
 author: "Toan Dang"
-description: "Here is a blog about deploying and managing Kubernetes on-premise. This blog contains knowledge I have accumulated over the years of managing Kubernetes." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Here is a blog about deploying and managing Kubernetes cluster, some components of an on-premise DevOps ecosystem. This blog contains knowledge I have accumulated over the years of research and working as a system administrator." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
