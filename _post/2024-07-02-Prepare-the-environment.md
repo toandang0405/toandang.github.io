@@ -1,8 +1,7 @@
 This post will guide you through the steps of preparing the OS for installing Kubernetes, install Load Balancer for multiple master nodes
 
 # Install and config Load Balancer for multiple Master Nodes
-==**Ref**==: 
-- https://github.com/justmeandopensource/kubernetes/tree/master/kubeadm-ha-keepalived-haproxy/external-keepalived-haproxy
+==**Ref**==: https://github.com/justmeandopensource/kubernetes/tree/master/kubeadm-ha-keepalived-haproxy/external-keepalived-haproxy
 
 Set up 2 load balancer nodes:
 ```Shell
